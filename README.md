@@ -1,4 +1,3 @@
-#Student marks persentage
 import java.util.Scanner;
 public class Persentage_student {
     public static void main(String[] Args){
